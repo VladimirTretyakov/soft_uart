@@ -1,0 +1,8 @@
+../Core/Src/soft_uart.c:13:6:uart_gpio_init	8	static
+../Core/Src/soft_uart.c:20:20:delay_us	24	static
+../Core/Src/soft_uart.c:25:6:uart_send	24	static
+../Core/Src/soft_uart.c:45:6:uart_rx_sample_bit	16	static
+../Core/Src/soft_uart.c:70:15:uart_start_receive	8	static
+../Core/Src/soft_uart.c:88:6:uart_set_rts	16	static
+../Core/Src/soft_uart.c:96:9:uart_data_ready	8	static
+../Core/Src/soft_uart.c:100:9:uart_get_rx_byte	8	static

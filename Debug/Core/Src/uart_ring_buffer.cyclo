@@ -1,0 +1,4 @@
+../Core/Src/uart_ring_buffer.c:7:6:uart_buf_push	3
+../Core/Src/uart_ring_buffer.c:16:6:uart_buf_pop	3
+../Core/Src/uart_ring_buffer.c:23:6:uart_buf_has_data	1
+../Core/Src/uart_ring_buffer.c:27:6:uart_receive	1
